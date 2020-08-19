@@ -7,7 +7,6 @@
 * Phoenix Crypto Coach is a division of EAWF that provides technical support to businesses and individuals who are looking to add bitcoin to their Invoice Remittance systems.
 ### Current Projects 
 - 🔭 Working on the [Bitcoin_Merchant's_Toolbox](), a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations.
-  - Use the toolbox to send the customer your Invoice QRCode, they pay it, and the bitcoin appears right in your business or personal bitcoin HD Wallet account.
 - 🌱 Learning more about how to work with GitHub and its features, like this page!
 - 💬 Ask me about <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17>itcoin!
 - 📫 How to reach me: [EAWF Contact Page][contact] 
@@ -16,8 +15,8 @@
 
 🏡 [EAWF][website] **|** 
 <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][pcc] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
+🐦 [Twitter][twitter] **|** 
+📺 [YouTube][youtube] **|** 
 
 [banner]: https://raw.githubusercontent.com/EAWF/EAWF/master/EAWF.png
 [website]: http://eawf.com
