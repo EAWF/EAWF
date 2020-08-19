@@ -27,7 +27,7 @@
 ## Donations:
 | CashApp(CashApp.com) | Bitcoin | Lightning(Tippin.me) |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/CashApp.png" valign=middle height=130> | <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/BTCTipJar.png" valign=middle height=130> | :zap:[Tippin.me](https://tippin.me/@EawfBob):zap: |
+| <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/CashApp.png" valign=middle height=130> | <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/BTCTipJar.png" valign=middle height=130> | :zap:**[Tippin.me](https://tippin.me/@EawfBob)**:zap: |
 | Use your CashApp wallet to donate! | Use your Bitcoin Wallet to donate! | Use your Lightning Wallet<br/>to donate from the link. |
 
 [banner]: https://raw.githubusercontent.com/EAWF/EAWF/master/EAWF.png
