@@ -24,15 +24,13 @@
 <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] **|** 
 🐦 [Twitter][twitter] **|** 
 📺 [YouTube][youtube] **|** 
-## Buy me coffee:
-| CashApp | Bitcoin | Lightning |
-:---:|:---:|:--:|
-| <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/EAWFBTCTipJar.png" valign=middle align=right height=75 /> | Placeholder | Placeholder |
+## Donations:
+| CashApp(CashApp.com) | Bitcoin | Lightning(Tippin.me) |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/CashApp.png" valign=middle height=130> | <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/BTCTipJar.png" valign=middle height=130> | :zap:[Tippin.me](https://tippin.me/@EawfBob):zap: |
+| Use your CashApp wallet to donate! | Use your Bitcoin Wallet to donate! | Use your Lightning Wallet<br/>to donate from the link. |
 
 [banner]: https://raw.githubusercontent.com/EAWF/EAWF/master/EAWF.png
-[CashApp]: https://raw.githubusercontent.com/EAWF/EAWF/master/CashApp.png
-[Bitcoin]: https://raw.githubusercontent.com/EAWF/EAWF/master/Bitcoin.png
-[Lightning]: https://raw.githubusercontent.com/EAWF/EAWF/master/Lightning.png
 [website]: http://eawf.com
 [PCC]: https://phoenixcryptocoach.com
 [Toolbox]: https://github.com/EAWF/Bitcoin-Merchants-Toolbox
