@@ -9,7 +9,7 @@
 ### Current Projects 
 - :construction: [Bitcoin_Merchant's_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations.
 - :seedling: Learning more about how to work with GitHub and its features, like this page!
-- :bank: Ask me about [<img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17>itcoin!][PCC]
+- :bank: Ask me about how to preserve your wealth by becoming a bank by using [<img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17>itcoin!][PCC]
 - :tophat: I'm an amateur magician.
 - :musical_note: I play keyboards, guitar, mandolin, bouzouki, mountain and hammered dulcimers, penny whistle, accordian, and concertina
 - :zap: Fun fact: I won a World Book Encyclopedia when I was a kid for asking a question of [Ask Andy][AskAndy].
