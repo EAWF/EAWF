@@ -11,7 +11,9 @@
 - 🌱 Learning more about how to work with GitHub and its features, like this page!
 - 💬 Ask me about [<img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17>itcoin!][PCC]
 - 📫 How to reach me: [EAWF Contact Page][contact] 
-- ⚡ Fun fact: I won a World Book Encyclopedia when I was a kid for asking a question of [Ask Andy](http://www.youaskandy.com/questions-answers/article-series-1960/15510-how-many-red-blood-corpuscles-do-we-have).
+- :tophat: I'm an amateur magician.
+- :musical_note: I play keyboards, guitar, mandolin, bouzouki, mountain and hammered dulcimers, penny whistle, accordian, and concertina
+- ⚡ Fun fact: I won a World Book Encyclopedia when I was a kid for asking a question of [Ask Andy][AskAndy].
 
 🏡 [EAWF][website] **|** 
 <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] **|** 
@@ -25,3 +27,4 @@
 [contact]: http://eawf.com/contact.php
 [twitter]: https://twitter.com/EAWFbob
 [youtube]: https://www.youtube.com/channel/UCeKJvcNn_uIJD8fPZzLH5KQ
+[AskAndy]: http://www.youaskandy.com/questions-answers/article-series-1960/15510-how-many-red-blood-corpuscles-do-we-have
