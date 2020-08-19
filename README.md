@@ -1,5 +1,5 @@
-[![bg][banner]][website]
-## Hi! I'm Bob Holden, aka EAWF.
+[![bg][banner]][website] <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/BTCHere.png" valign=middle align=right height=75 />
+## Hi! I'm EAWF, aka Bob Holden.
 ### Ancient History
 * With roots reaching back to 1971, I've been operating EAWF since 1979, providing goods and services to customers of all types, large and small business, government, and non-profits.
 * Schooled as a Glaze Chemist and Ceramicist, life handed me a curve ball and educated me about the concept of expendible income, which forced me to take a hard right turn and look at new-fangled ceramic chips that could do stuff electronically, which introduced me to programming, and I've been on the same road ever since.
@@ -7,7 +7,7 @@
 * EAWF is a managed VPS Hosting Company dba EAWF LLC providing affordable web domain hosting for primarily small business and individuals.
 * Phoenix Crypto Coach is a division of EAWF that provides education to businesses and individuals who are looking to add bitcoin to their Invoice Remittance systems.
 ### Current Projects 
-- :construction: [Bitcoin_Merchant's_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations.
+- <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/EAWFTipJar.png" valign=middle align=right height=75 /> :construction: [Bitcoin_Merchant's_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations. Donate some bitcoin to the project here: 
 - :seedling: Learning more about how to work with GitHub and its features, like this page!
 - :bank: Ask me about how to become your own bank and preserve your wealth by using [<img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17>itcoin!][PCC]
 - :tophat: I'm an amateur magician.
@@ -20,6 +20,8 @@
 📺 [YouTube][youtube] **|** 
 
 [banner]: https://raw.githubusercontent.com/EAWF/EAWF/master/EAWF.png
+[btchere]: https://raw.githubusercontent.com/EAWF/EAWF/master/BTChere.png
+[donate]: https://raw.githubusercontent.com/EAWF/EAWF/master/EAWFTipJar.png
 [website]: http://eawf.com
 [PCC]: https://phoenixcryptocoach.com
 [Toolbox]: https://github.com/EAWF/Bitcoin-Merchants-Toolbox
