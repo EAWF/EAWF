@@ -24,4 +24,4 @@
 [Toolbox]: https://github.com/EAWF/Bitcoin-Merchants-Toolbox
 [contact]: http://eawf.com/contact.php
 [twitter]: https://twitter.com/EAWFbob
-[youtube]: https://youtube.com/EAWF
+[youtube]: https://www.youtube.com/channel/UCeKJvcNn_uIJD8fPZzLH5KQ
