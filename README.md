@@ -7,7 +7,7 @@
 * EAWF is a managed VPS Hosting Company dba EAWF LLC providing affordable web domain hosting for primarily small business and individuals.
 * Phoenix Crypto Coach is a division of EAWF that provides education to businesses and individuals who are looking to add bitcoin to their Invoice Remittance systems.
 ### Current Projects 
-* <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/EAWFBTCTipJar.png" valign=middle align=right height=75 /> :construction: [Bitcoin_Merchant's_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations. Use the QR Code at the right to donate some BTC to the project.
+*  :construction: [Bitcoin_Merchant's_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations. Use the QR Code at the right to donate some BTC to the project.
 * :seedling: I'm learning more about how to work with GitHub and its features, like this page!
 ### About Me
 * Interests:
@@ -18,16 +18,18 @@
    - :zap: I'm a US Army Veteran who served with the 4th Infantry Division during the Vietnam Era. :zap: 
    - :zap: I won a World Book Encyclopedia when I was a kid for asking a question of [Ask Andy][AskAndy]. :zap:
    - :zap: I was once an ordained Reverend in the Universal Life Church. :zap:
-   - :zap: Working as a Systems Analyst, I have built and installed more systems that put me out of work than anyone I know. :zap: 
+   - :zap: Working as a Systems Analyst, I have built and installed more systems that put me out of work than anyone I know. :zap:
 ## Find me: 
 **|** 🏡 [EAWF][website] **|** 
 <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] **|** 
 🐦 [Twitter][twitter] **|** 
 📺 [YouTube][youtube] **|** 
+## If you like my work and want to contribute cash or bitcoin, here are the links:
+| CashApp | Bitcoin | Lightning |
+:---:|:---:|:--:|
+| <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/EAWFBTCTipJar.png" valign=middle align=right height=75 /> | Placeholder | Placeholder |
 
 [banner]: https://raw.githubusercontent.com/EAWF/EAWF/master/EAWF.png
-[btchere]: https://raw.githubusercontent.com/EAWF/EAWF/master/BTChere.png
-[donate]: https://raw.githubusercontent.com/EAWF/EAWF/master/EAWFBTCTipJar.png
 [website]: http://eawf.com
 [PCC]: https://phoenixcryptocoach.com
 [Toolbox]: https://github.com/EAWF/Bitcoin-Merchants-Toolbox
