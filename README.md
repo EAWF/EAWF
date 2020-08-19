@@ -7,8 +7,8 @@
 * EAWF is a managed VPS Hosting Company dba EAWF LLC providing affordable web domain hosting for primarily small business and individuals.
 * Phoenix Crypto Coach is a division of EAWF that provides education to businesses and individuals who are looking to add bitcoin to their Invoice Remittance systems.
 ### Current Projects 
-- 🔭 [Bitcoin_Merchant's_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations.
-- 🌱 Learning more about how to work with GitHub and its features, like this page!
+- :construction: [Bitcoin_Merchant's_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations.
+- :seedling: Learning more about how to work with GitHub and its features, like this page!
 - :question: Ask me about [<img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17>itcoin!][PCC]
 - :tophat: I'm an amateur magician.
 - :musical_note: I play keyboards, guitar, mandolin, bouzouki, mountain and hammered dulcimers, penny whistle, accordian, and concertina
