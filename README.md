@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**EAWF/EAWF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+[![bg][banner]][website]
+## Hi! I'm Bob Holden, aka EAWF. 
+* With roots going back to 1971, I've been operating EAWF since 1979 providing goods and services related to the IT industry, to entities of all types.
+### Current 
+- 🔭 I’m currently working on the [Bitcoin_Merchant's_Toolbox](), a repository of tools you can use to build your own bitcoin paywall
+- 🌱 I’m currently learning how to work with GitHub and its features.
+- 💬 Ask me about :bitcoin:
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+
+[banner]: https://raw.githubusercontent.com/EAWF/EAWF/master/EAWF.png
+[website]: https://eawf.com
+[twitter]: https://twitter.com/EAWFbob
+[youtube]: https://youtube.com/EAWF
