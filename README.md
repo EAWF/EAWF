@@ -24,12 +24,15 @@
 <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] **|** 
 🐦 [Twitter][twitter] **|** 
 📺 [YouTube][youtube] **|** 
-## If you like my work and want to contribute cash or bitcoin, here are the links:
+## Buy me coffee:
 | CashApp | Bitcoin | Lightning |
 :---:|:---:|:--:|
 | <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/EAWFBTCTipJar.png" valign=middle align=right height=75 /> | Placeholder | Placeholder |
 
 [banner]: https://raw.githubusercontent.com/EAWF/EAWF/master/EAWF.png
+[CashApp]: https://raw.githubusercontent.com/EAWF/EAWF/master/CashApp.png
+[Bitcoin]: https://raw.githubusercontent.com/EAWF/EAWF/master/Bitcoin.png
+[Lightning]: https://raw.githubusercontent.com/EAWF/EAWF/master/Lightning.png
 [website]: http://eawf.com
 [PCC]: https://phoenixcryptocoach.com
 [Toolbox]: https://github.com/EAWF/Bitcoin-Merchants-Toolbox
