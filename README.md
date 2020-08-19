@@ -25,6 +25,7 @@
 🐦 [Twitter][twitter] **|** 
 📺 [YouTube][youtube] **|** 
 ## Donations:
+Always appreciated!
 | CashApp(CashApp.com) | Bitcoin | Lightning(Tippin.me) |
 | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/CashApp.png" valign=middle height=130> | <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/BTCTipJar.png" valign=middle height=130> | :zap:**[Tippin.me](https://tippin.me/@EawfBob)**:zap: |
