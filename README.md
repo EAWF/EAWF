@@ -33,7 +33,7 @@ Always appreciated!
 
 [banner]: https://raw.githubusercontent.com/EAWF/EAWF/master/EAWF.png
 [website]: http://eawf.com
-[bitcoinhere]: https://raw.githubusercontent.com/EAWF/EAWF/master/BTCHere.png
+[bitcoinhere]: https://raw.githubusercontent.com/EAWF/EAWF/master/BitcoinHere.png
 [PCC]: https://phoenixcryptocoach.com
 [Toolbox]: https://github.com/EAWF/Bitcoin-Merchants-Toolbox
 [twitter]: https://twitter.com/EAWFbob
