@@ -1,4 +1,4 @@
-[![bg][banner]][website]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![bcc][bitcoinhere]][PCC]
+[![EAWF logo][banner]][website]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Bitcoin Accepted Here][bitcoinhere]][PCC]
 ## EAWF, aka Bob Holden.
 ### Ancient History
 * With roots reaching back to 1971, I've been operating EAWF since 1979, providing goods and services to customers of all types, large and small business, government, and non-profits.
@@ -11,7 +11,7 @@
 * :seedling: I'm learning more about how to work with GitHub and its features, like this page!
 ### About Me
 * Interests:
-  - :bank: I'm a HUGE proponent of Bitcoin and of educating people how to become their own bank and preserve their wealth by using [<img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17>itcoin!][PCC]
+  - :bank: I'm a HUGE proponent of Bitcoin and of educating people how to become their own bank and preserve their wealth by using [<img src="images/btc.svg" valign=middle height=17>itcoin!][PCC]
   - :musical_note: I'm an amateur musician, and play keyboards, 6 and 12 string guitar, mandolin, bouzouki, harmonica, mountain and hammered dulcimers, penny whistle, accordian, puny tune, jew's harp, and concertina.
   - :tophat: I'm an an amateur magician.
  * **Fun facts:** 
@@ -21,19 +21,19 @@
    - :zap: Working as a Systems Analyst, I have built and installed more systems that put me out of work than anyone I know. :zap:
 ## Find me: 
 **|** 🏡 [EAWF][website] **|** 
-<img src="https://raw.githubusercontent.com/EAWF/EAWF/master/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] **|** 
+<img src="images/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] **|** 
 🐦 [Twitter][twitter] **|** 
 📺 [YouTube][youtube] **|** 
 ## Donations:
 Always appreciated!
 | CashApp(CashApp.com) | Bitcoin | Lightning(Tippin.me) |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/CashApp.png" valign=middle height=130> | <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/BTCTipJar.png" valign=middle height=130> | :zap:**[Tippin.me](https://tippin.me/@EawfBob)**:zap: |
+| <img src="images/CashApp.png" valign=middle height=130> | <img src="images/BTCTipJar.png" valign=middle height=130> | :zap:**[Tippin.me](https://tippin.me/@EawfBob)**:zap: |
 | Use your CashApp wallet to donate! | Use your Bitcoin Wallet to donate! | Use your Lightning Wallet<br/>to donate from the link. |
 
-[banner]: https://raw.githubusercontent.com/EAWF/EAWF/master/EAWF.png
+[banner]: images/EAWF.png
 [website]: http://eawf.com
-[bitcoinhere]: https://raw.githubusercontent.com/EAWF/EAWF/master/BitcoinHere.png
+[bitcoinhere]: images/BitcoinHere.png
 [PCC]: https://phoenixcryptocoach.com
 [Toolbox]: https://github.com/EAWF/Bitcoin-Merchants-Toolbox
 [twitter]: https://twitter.com/EAWFbob
