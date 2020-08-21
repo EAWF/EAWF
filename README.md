@@ -1,4 +1,4 @@
-[![bg][banner]][website] <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/BTCHere.png" valign=middle align=right height=75 />
+[![bg][banner]][website] <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/images/BitcoinHere.png" valign=middle align=right height=75 />
 ## EAWF, aka Bob Holden.
 ### Ancient History
 * With roots reaching back to 1971, I've been operating EAWF since 1979, providing goods and services to customers of all types, large and small business, government, and non-profits.
