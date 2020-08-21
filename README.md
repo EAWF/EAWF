@@ -1,4 +1,4 @@
-[![bg][banner]][website] <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/BTCHere.png" valign=middle align=right height=75 />
+[![bg][banner]][website] ![bitcoinhere]
 ## EAWF, aka Bob Holden.
 ### Ancient History
 * With roots reaching back to 1971, I've been operating EAWF since 1979, providing goods and services to customers of all types, large and small business, government, and non-profits.
@@ -33,6 +33,7 @@ Always appreciated!
 
 [banner]: https://raw.githubusercontent.com/EAWF/EAWF/master/EAWF.png
 [website]: http://eawf.com
+[bitcoinhere]: https://raw.githubusercontent.com/EAWF/EAWF/master/BitcoinHere.png
 [PCC]: https://phoenixcryptocoach.com
 [Toolbox]: https://github.com/EAWF/Bitcoin-Merchants-Toolbox
 [twitter]: https://twitter.com/EAWFbob
