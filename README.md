@@ -1,4 +1,4 @@
-[![bg][banner]][website][<img src="EAWF/master/images/BitcoinHere.png" align=right>][PCC]
+[![bg][banner]][website][<img src="https://github.com/EAWF/EAWF/blob/master/images/BitcoinHere.png" align=right>][PCC]
 ## EAWF, aka Bob Holden.
 ### Ancient History
 * With roots reaching back to 1971, I've been operating EAWF since 1979, providing goods and services to customers of all types, large and small business, government, and non-profits.
@@ -11,7 +11,7 @@
 * :seedling: I'm learning more about how to work with GitHub and its features, like this page!
 ### About Me
 * Interests:
-  - :bank: I'm a HUGE proponent of Bitcoin and of educating people how to become their own bank and preserve their wealth by using [<img src="EAWF/master/images/btc.svg" valign=middle height=17>itcoin!][PCC]
+  - :bank: I'm a HUGE proponent of Bitcoin and of educating people how to become their own bank and preserve their wealth by using [<img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17>itcoin!][PCC]
   - :musical_note: I'm an amateur musician, and play keyboards, 6 and 12 string guitar, mandolin, bouzouki, harmonica, mountain and hammered dulcimers, penny whistle, accordian, puny tune, jew's harp, and concertina.
   - :tophat: I'm an an amateur magician.
  * **Fun facts:** 
@@ -21,18 +21,18 @@
    - :zap: Working as a Systems Analyst, I have built and installed more systems that put me out of work than anyone I know. :zap:
 ## Find me: 
 **|** 🏡 [EAWF][website] **|** 
-<img src="EAWF/master/images/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] **|** 
+<img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] **|** 
 🐦 [Twitter][twitter] **|** 
 📺 [YouTube][youtube] **|** 
 ## Donations:
 Always appreciated!
 | CashApp(CashApp.com) | Bitcoin | Lightning(Tippin.me) |
 | :---: | :---: | :---: |
-| <img src="EAWF/master/images/CashApp.png" valign=middle height=130> | <img src="images/BTCTipJar.png" valign=middle height=130> | :zap:**[Tippin.me](https://tippin.me/@EawfBob)**:zap: |
+| <img src="https://github.com/EAWF/EAWF/blob/master/images/CashApp.png" valign=middle height=130> | <img src="https://github.com/EAWF/EAWF/blob/master/images/BTCTipJar.png" valign=middle height=130> | :zap:**[Tippin.me](https://tippin.me/@EawfBob)**:zap: |
 | Use your CashApp wallet to donate! | Use your Bitcoin Wallet to donate! | Use your Lightning Wallet<br/>to donate from the link. |
 
 [base]:
-[banner]: EAWF/master/images/EAWF.png
+[banner]: https://github.com/EAWF/EAWF/blob/master/images/EAWF.png
 [website]: http://eawf.com
 [PCC]: https://phoenixcryptocoach.com
 [Toolbox]: https://github.com/EAWF/Bitcoin-Merchants-Toolbox
