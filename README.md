@@ -1,4 +1,4 @@
-[![EAWF logo][banner]][website][<img src="images/BitcoinHere.png" align=right>][PCC]
+[![bg][banner]][website][<img src="images/BitcoinHere.png" align=right>][PCC]
 ## EAWF, aka Bob Holden.
 ### Ancient History
 * With roots reaching back to 1971, I've been operating EAWF since 1979, providing goods and services to customers of all types, large and small business, government, and non-profits.
