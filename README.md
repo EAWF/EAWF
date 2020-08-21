@@ -14,10 +14,11 @@
   - :musical_note: I'm an amateur musician, and play keyboards, 6 and 12 string guitar, mandolin, bouzouki, harmonica, mountain and hammered dulcimers, penny whistle, accordian, puny tune, jew's harp, and concertina.
   - :tophat: I'm an an amateur magician.
  * **Fun facts:** 
-   - :zap: SP-4, US Army, 4th Infantry Division, 1971-1977 :zap: 
-   - :zap: I won a World Book Encyclopedia when I was a kid for asking a question of [Ask Andy][AskAndy]. :zap:
-   - :zap: I was once an ordained Reverend in the Universal Life Church. :zap:
-   - :zap: Working as a Systems Analyst, I have built and installed more systems that put me out of work than anyone I know. :zap:
+   - :zap: Was a SP-4, US Army, 4th Infantry Division, 1971-1977 :zap: 
+   - :zap: Won a World Book Encyclopedia as a kid for asking a question of [Ask Andy][AskAndy]. :zap:
+   - :zap: Was once an ordained Reverend in the Universal Life Church. :zap:
+   - :zap: Played mandolin and mountain dulcimer in a bluegrass band. :zap:
+   - :zap: Working as a Systems Analyst, I have built and installed more systems that put me out of work more times than anyone I know. :zap:
 ## Donations:
 Always appreciated!
 | CashApp(CashApp.com) | Bitcoin | Lightning(Tippin.me) |
