@@ -1,4 +1,4 @@
-[![bg][banner]][website] [<img src="https://github.com/EAWF/EAWF/blob/master/images/BitcoinHere.png" align=right>][PCC]
+[![bg][banner]][website] <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/BTCHere.png" valign=middle align=right height=75 />
 ## EAWF, aka Bob Holden.
 ### Ancient History
 * With roots reaching back to 1971, I've been operating EAWF since 1979, providing goods and services to customers of all types, large and small business, government, and non-profits.
@@ -31,7 +31,6 @@ Always appreciated!
 | <img src="https://github.com/EAWF/EAWF/blob/master/images/CashApp.png" valign=middle height=130> | <img src="https://github.com/EAWF/EAWF/blob/master/images/BTCTipJar.png" valign=middle height=130> | :zap:**[Tippin.me](https://tippin.me/@EawfBob)**:zap: |
 | Use your CashApp wallet to donate! | Use your Bitcoin Wallet to donate! | Use your Lightning Wallet<br/>to donate from the link. |
 
-[base]:
 [banner]: https://github.com/EAWF/EAWF/blob/master/images/EAWF.png
 [website]: http://eawf.com
 [PCC]: https://phoenixcryptocoach.com
