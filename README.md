@@ -19,12 +19,12 @@
    - :zap: Was once an ordained Reverend in the Universal Life Church. :zap:
    - :zap: Played mandolin and mountain dulcimer in a bluegrass band. :zap:
    - :zap: Working as a Systems Analyst, I have built and installed more systems that put me out of work more times than anyone I know. :zap:
-## Donations:
-Always appreciated!
+## Be My Patron:
+Donations are always appreciated!
 | CashApp(CashApp.com) | Bitcoin | Lightning(Tippin.me) |
 | :---: | :---: | :---: |
 | <img src="https://github.com/EAWF/EAWF/blob/master/images/CashApp.png" valign=middle height=130> | <img src="https://github.com/EAWF/EAWF/blob/master/images/BTCTipJar.png" valign=middle height=130> | :zap:**[Tippin.me](https://tippin.me/@EawfBob)**:zap: |
-| Use your CashApp wallet to donate! | Use your Bitcoin Wallet to donate! | Use your Lightning Wallet<br/>to donate from the link. |
+| Use your CashApp wallet to donate!<br/>(*Instant Payment*) | Use your Bitcoin Wallet to donate!<br/>(*Use the lowest miner fee you can*) | Click the link to<br/>use your Lightning Wallet<br/>(*Instant Payment*) |
 
 [banner]: https://github.com/EAWF/EAWF/blob/master/images/EAWF.png
 [website]: http://eawf.com
