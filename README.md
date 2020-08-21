@@ -1,5 +1,4 @@
-[![bg][banner]][website] <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/images/BitcoinHere.png" valign=middle align=right />
-## About EAWF: aka Bob Holden.
+[![bg][banner]][website] <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/images/BitcoinHere.png" valign=middle align=right /><br/>***EAWF LLC, Bob Holden***
 ### Ancient History
 * With roots reaching back to 1971, I've been operating EAWF since 1979, providing goods and services to customers of all types, large and small business, government, and non-profits.
 * Schooled as a Glaze Chemist and Ceramicist, life handed me a curve ball and educated me about the concept of expendible income, which forced me to take a hard right turn and look at new-fangled ceramic chips that could do stuff electronically, which introduced me to programming, and I've been on the same road ever since.
