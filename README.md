@@ -18,7 +18,7 @@
    - :zap: Won a World Book Encyclopedia as a kid for asking a question of [Ask Andy][AskAndy]. :zap:
    - :zap: Was once an ordained Reverend in the Universal Life Church. :zap:
    - :zap: Played mandolin and mountain dulcimer in a bluegrass band. :zap:
-   - :zap: Working as a Systems Analyst, I have built and installed more systems that put me out of work more times than anyone I know. :zap:
+   - :zap: As a Systems Analyst, I have built and installed more systems that put me out of work more times than anyone I know. :zap:
 ## Be My Patron:
 Donations are always appreciated!
 | CashApp(CashApp.com) | Bitcoin | Lightning(Tippin.me) |
