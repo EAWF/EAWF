@@ -1,9 +1,9 @@
 [![bg][banner]][website] <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/images/BitcoinHere.png" valign=middle align=right /><br/>***EAWF LLC, Bob Holden***
-### Current Projects 
+### Current Projects images/logo.png
 *  :construction: [Bitcoin_Merchant's_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations. Use the QR Code at the right to donate some BTC to the project.
 * :seedling: I'm learning more about how to work with GitHub and its features, like this page!
 ### My Businesses
-* EAWF is a managed VPS Hosting Company dba EAWF LLC providing affordable web domain hosting for primarily small business and individuals.
+* <img src="https://github.com/EAWF/EAWF/blob/master/images/logo.png" valign=middle height=17>EAWF is a managed VPS Hosting Company dba EAWF LLC providing affordable web domain hosting for primarily small business and individuals.
 * <img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] is a division of EAWF that provides education to businesses and individuals who are looking to add bitcoin to their Invoice Remittance systems.
 ### About Me
 * Interests:
