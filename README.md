@@ -21,7 +21,7 @@
    - :zap: As a Systems Analyst, I have built and installed more systems that put me out of work more times than anyone I know. :zap:
 ## Be My Patron:
 Donations are always appreciated!
-| CashApp(CashApp.com) | Bitcoin | Lightning(Tippin.me) |
+| CashApp | Bitcoin | Lightning(Tippin.me) |
 | :---: | :---: | :---: |
 | <img src="https://github.com/EAWF/EAWF/blob/master/images/CashApp.png" valign=middle height=130> | <img src="https://github.com/EAWF/EAWF/blob/master/images/BTCTipJar.png" valign=middle height=130> | **Go to**<br/>:zap:**[Tippin.me](https://tippin.me/@EawfBob)**:zap: |
 | Use your CashApp wallet to donate!<br/>(*Instant Payment*) | Use your Bitcoin Wallet to donate!<br/>(*Use the lowest miner fee you can*) | Click the link to<br/>use your Lightning Wallet<br/>(*Instant Payment*) |
