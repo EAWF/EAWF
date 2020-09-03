@@ -8,7 +8,7 @@
 ### About Me
 * Interests:
   - :bank: I'm a HUGE proponent of Bitcoin and of educating people how to become their own bank and preserve their wealth by using [<img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17>itcoin!][PCC]
-  - :musical_note: I'm an amateur musician, and play keyboards, 6 and 12 string guitar, mandolin, bouzouki, harmonica, mountain and hammered dulcimers, penny whistle, accordian, puny tune, jew's harp, and concertina.
+  - :musical_note: I'm an amateur musician, and play keyboards, guitar, mandolin, bouzouki, harmonica, mountain and hammered dulcimers, penny whistle, accordian, puny tune, jew's harp, and concertina.
   - :tophat: I'm an an amateur magician.
 * Ancient History
   - With roots reaching back to 1971, I've been operating EAWF since 1979, providing goods and services to customers of all types, large and small business, government, and non-profits.
