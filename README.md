@@ -14,10 +14,7 @@
   - With roots reaching back to 1971, I've been operating EAWF since 1979, providing goods and services to customers of all types, large and small business, government, and non-profits.
   - Schooled as a Glaze Chemist and Ceramicist, life handed me a curve ball and educated me about the concept of expendible income, which forced me to take a hard right turn and look at new-fangled ceramic chips that could do stuff electronically, which introduced me to programming, and I've been on the same road ever since.
  * **Fun facts:** 
-   - :zap: Was a SP-4, US Army, 4th Infantry Division, 1971-1977 :zap: 
-   - :zap: Won a World Book Encyclopedia as a kid for asking a question of [Ask Andy][AskAndy]. :zap:
-   - :zap: Was once an ordained Reverend in the Universal Life Church. :zap:
-   - :zap: Played mandolin and mountain dulcimer in a bluegrass band. :zap:
+   - :zap: Won a World Book Encyclopedia as a kid for asking a question of [Ask Andy]. :zap:
    - :zap: As a Systems Analyst, I have built and installed more systems that put me out of work more times than anyone I know. :zap:
 ## Be My Patron:
 Donations are always appreciated!
@@ -30,4 +27,4 @@ Donations are always appreciated!
 [website]: http://eawf.com
 [PCC]: https://phoenixcryptocoach.com
 [Toolbox]: https://github.com/EAWF/Bitcoin-Merchants-Toolbox
-[AskAndy]: http://www.youaskandy.com/questions-answers/article-series-1960/15510-how-many-red-blood-corpuscles-do-we-have
+[Ask Andy]: http://www.youaskandy.com/questions-answers/article-series-1960/15510-how-many-red-blood-corpuscles-do-we-have
