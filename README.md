@@ -1,6 +1,6 @@
 [![bg][banner]][website] <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/images/BitcoinHere.png" valign=middle align=right /><br/>***EAWF LLC, Bob Holden***
 ### Current Projects
-* :construction: [Bitcoin_Merchant's_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations. Use the QR Code at the right to donate some BTC to the project.
+* :construction: [BTC_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations. Use the QR Code at the right to donate some BTC to the project.
 * :seedling: I'm learning more about how to work with GitHub and its features, like this page!
 ### My Businesses
 * <img src="https://github.com/EAWF/EAWF/blob/master/images/logo.png" valign=middle height=17>EAWF is a managed VPS Hosting Company dba EAWF LLC providing affordable web domain hosting for primarily small business and individuals.
@@ -26,5 +26,5 @@ Donations are always appreciated!
 [banner]: https://github.com/EAWF/EAWF/blob/master/images/EAWF.png
 [website]: http://eawf.com
 [PCC]: https://phoenixcryptocoach.com
-[Toolbox]: https://github.com/EAWF/Bitcoin-Merchants-Toolbox
+[Toolbox]: https://github.com/EAWF/BTC-Toolbox
 [Ask Andy]: http://www.youaskandy.com/questions-answers/article-series-1960/15510-how-many-red-blood-corpuscles-do-we-have
