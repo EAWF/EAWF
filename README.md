@@ -4,7 +4,7 @@
 * :seedling: I'm learning more about how to work with GitHub and its features, like this page!
 ### My Businesses
 * <img src="https://github.com/EAWF/EAWF/blob/master/images/logo.png" valign=middle height=17>EAWF is a managed VPS Hosting Company dba EAWF LLC providing affordable web domain hosting for primarily small business and individuals.
-* <img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] is a division of EAWF that provides education to businesses and individuals who are looking to add bitcoin to their Invoice Remittance systems.
+* <img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] is a division of EAWF that provides education to businesses and individuals who are looking to add bitcoin to their Invoice Remittance systems. PhoenixCryptoCoach.com will be absorbed by EAWF in the very near future. How it's absorbed is still being worked out.
 ### About Me
 * Interests:
   - :bank: I'm a HUGE proponent of Bitcoin and of educating people how to become their own bank and preserve their wealth by using [<img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17>itcoin!][PCC]
