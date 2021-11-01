@@ -3,7 +3,7 @@
 * :construction: [BTC_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations. Use the QR Code at the right to donate some BTC to the project.
 * :seedling: I'm learning more about how to work with GitHub and its features, like this page!
 ### My Businesses
-* <img src="https://github.com/EAWF/EAWF/blob/master/images/logo.png" valign=middle height=17>EAWF is a managed VPS Hosting Company dba EAWF LLC providing affordable web domain hosting for primarily small business and individuals.
+* <img src="https://github.com/EAWF/EAWF/blob/master/images/logo.png" valign=middle height=17>EAWF ~~is~~ was a managed VPS Hosting Company dba EAWF LLC providing affordable web domain hosting for primarily small business and individuals. The business was closed effective October 31st, 2021.
 * <img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] was a division of EAWF that provided education to businesses and individuals who are looking to add bitcoin to their Invoice Remittance systems. PhoenixCryptoCoach.com has been absorbed into the EAWF.com site.
 ### About Me
 * Interests:
