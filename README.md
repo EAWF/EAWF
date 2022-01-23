@@ -13,8 +13,8 @@
   - :musical_note: I'm an amateur musician, and play keyboards, guitar, mandolin, bouzouki, harmonica, mountain and hammered dulcimers, penny whistle, accordian, puny tune, jew's harp, and concertina.
   - :tophat: I'm an an amateur magician.
 * Ancient History
-  - With roots reaching back to 1971, I've been operating EAWF since 1979, providing goods and services to customers of all types, large and small business, government, and non-profits.
-  - Schooled as a Glaze Chemist and Ceramicist, life handed me a curve ball and educated me about the concept of expendible income, which forced me to take a hard right turn and look at new-fangled ceramic chips that could do stuff electronically, which introduced me to programming, and I've been on the same road ever since.
+  - With roots reaching back to 1971, and between August of 1979 until December of 2021 I owned and operated EAWF, providing goods and services to customers of all types, large and small business, government, and non-profits.
+  - Schooled as a Glaze Chemist/Ceramicist, life handed me a curve ball and educated me about the concept of customer expendible income, which forced me to take a hard right turn and look at new-fangled ceramic-like chips that could do stuff electronically, which introduced me to programming, and I've been on the same road ever since.
  * **Fun facts:** 
    - :zap: Won a World Book Encyclopedia as a kid for asking a question of [Ask Andy]. :zap:
    - :zap: As a Systems Analyst, I have built and installed more systems that put me out of work more times than anyone I know. :zap:
