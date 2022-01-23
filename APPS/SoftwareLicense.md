@@ -1,1 +1,0 @@
-## EAWF Software License.
