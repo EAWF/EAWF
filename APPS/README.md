@@ -16,7 +16,8 @@ Created using [MIT App Inventor 2][AI2], these apps are available free to downlo
   - The number of sat's(satoshis) that $1 US will purchase.
     - useful for understanding and/or converting dollar prices to satoshi's.
     - :zap: When $1 US purchases 1 satoshi, the bitcoin exchange rate will be at $100,000,000 US!
-- :arrow_double_down: <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/images/btcticker.jpg" valign=middle align=left />
+- :arrow_double_down: To Download and install on your device, use your barcode scanner to scan the QR Code at the right.
+ <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/images/btcticker.jpg" valign=middle align=right />
 
 <hr> 
 
