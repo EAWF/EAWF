@@ -3,6 +3,7 @@
 * :construction: [MIT App Inventor][AI2] Working on various bitcoin related projects to help anyone write an app that accepts payments in bitcoin.
 * :seedling: I'm learning more about how to work with GitHub and its features, like this page!
 ### My Businesses
+* <img src="https://github.com/EAWF/EAWF/blob/master/images/logo.png" valign=middle height=17>EAWF is now a Bitcoin Mentoring Service managed by me, which essentially took over the Phoenix Crypto Coach business described below. I teach/mentor individuals how to use bitcoin in their daily lives. A specialty is getting small business web sites set up to receive bitcoin directly without third party support entities.
 * <img src="https://github.com/EAWF/EAWF/blob/master/images/logo.png" valign=middle height=17>EAWF was a managed VPS Hosting Company providing affordable web domain hosting for primarily small business and individuals. The business was closed effective October 31st, 2021 due to increasing governmental and banking cartel mismanagement which upset the delicate balance of the business world.
 * <img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] was a division of EAWF that provided education to businesses and individuals who are looking to add bitcoin to their Invoice Remittance systems. PhoenixCryptoCoach.com was absorbed into the EAWF.com site in January 2021.
 ### Github Repositories
