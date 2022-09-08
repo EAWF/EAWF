@@ -1,5 +1,6 @@
 [![bg][banner]][website] <img src="https://raw.githubusercontent.com/EAWF/EAWF/master/images/BitcoinHere.png" valign=middle align=right /><br/>***EAWF, Bob Holden***
 ### Current Projects
+* :construction: Adding features and content to [EAWF.com][website].
 * :construction: [MIT App Inventor][AI2] Working on various bitcoin related projects to help anyone write an app that accepts payments in bitcoin.
 * :seedling: I'm learning more about how to work with GitHub and its features, like this page!
 ### My Businesses
@@ -7,7 +8,7 @@
 * <img src="https://github.com/EAWF/EAWF/blob/master/images/logo.png" valign=middle height=17>EAWF was a managed VPS Hosting Company providing affordable web domain hosting for primarily small business and individuals. The business was closed effective October 31st, 2021 due to increasing governmental and banking cartel mismanagement which upset the delicate balance of the business world.
 * <img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17> [Phoenix Crypto Coach][PCC] was a division of EAWF that provided education to businesses and individuals who are looking to add bitcoin to their Invoice Remittance systems. PhoenixCryptoCoach.com was absorbed into the EAWF.com site in January 2021.
 ### Github Repositories
-* :construction: [BTC_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations. Use the QR Code at the right to donate some BTC to the project.
+* :construction: [BTC_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations.
 ### About Me
 * Interests:
   - :bank: I'm a HUGE proponent of Bitcoin and of educating people how to become their own bank and preserve their wealth by using [<img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17>itcoin!][PCC]
