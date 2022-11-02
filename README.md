@@ -5,13 +5,13 @@
 * :seedling: I'm learning more about how to work with GitHub and its features, like this page!
 ### My Businesses
 * <img src="https://github.com/EAWF/EAWF/blob/master/images/logo.png" valign=middle height=17>[EAWF][website] is now a Bitcoin Consulting/Mentoring Service managed by me, which essentially took over the Phoenix Crypto Coach business described below. I teach/mentor individuals how to use bitcoin safely and securely in their daily lives. A specialty is getting small business web sites set up to receive bitcoin directly without third party support entities.
-* <img src="https://github.com/EAWF/EAWF/blob/master/images/logo.png" valign=middle height=17>EAWF was a managed VPS Hosting Company providing affordable web domain hosting for primarily small business and individuals. The business was closed effective October 31st, 2021 due to increasing governmental and banking cartel mismanagement which upset the delicate balance of the business and financial world.
+* <img src="https://github.com/EAWF/EAWF/blob/master/images/logo.png" valign=middle height=17>EAWF was a managed VPS Hosting Company providing affordable web domain hosting for primarily small business and individuals. The business was closed effective October 31st, 2021 due to increasing governmental and banking cartel mismanagement which upset the delicate balance of the business and financial world as well as my personal business model.
 * <img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17> Phoenix Crypto Coach was a division of EAWF that provided education to businesses and individuals who are looking to add bitcoin to their Invoice Remittance systems. PhoenixCryptoCoach.com was absorbed into the EAWF.com site in January 2021.
 ### Github Repositories
 * :construction: [BTC_Toolbox][Toolbox], a public GitHub repository of easy to use and understand tools you can use to build your own bitcoin paywall without requiring confusing libraries or rent-seeking third-party corporations.
 ### About Me
 * Interests:
-  - :bank: I'm a HUGE proponent of Bitcoin and of educating people how to become their own bank and preserve their wealth by using [<img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17>itcoin!]
+  - :bank: I'm a HUGE proponent of Bitcoin and of educating people how to become their own bank and preserve their wealth by using <img src="https://github.com/EAWF/EAWF/blob/master/images/btc.svg" valign=middle height=17>itcoin!
   - :musical_note: I'm an amateur musician, and play keyboards, guitar, mandolin, bouzouki, harmonica, dulcimers, penny whistle, accordian, puny tune, jew's harp, and concertina.
   - :tophat: I'm an an amateur magician with an ancient bag of tricks.
 * Ancient History
